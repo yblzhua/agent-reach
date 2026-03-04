@@ -3,13 +3,13 @@
 > A Claude Code skill that gives your AI assistant internet access capabilities
 
 <p align="center">
-  <a href="https://github.com/Panniantong/agent-reach/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-green.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"></a>
-  <a href="https://github.com/Panniantong/agent-reach/stargazers"><img src="https://img.shields.io/github/stars/Panniantong/agent-reach?style=for-the-badge" alt="GitHub Stars"></a>
+  <a href="https://github.com/yblzhua/agent-reach/stargazers"><img src="https://img.shields.io/github/stars/yblzhua/agent-reach?style=for-the-badge" alt="GitHub Stars"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Panniantong/agent-reach">Project Home</a> · <a href="README_CN.md">中文</a> · <a href="https://github.com/Panniantong/agent-reach#支持的平台">Platforms</a> · <a href="https://github.com/Panniantong/agent-reach#设计理念">Philosophy</a>
+  <a href="https://github.com/yblzhua/agent-reach">Project Home</a> · <a href="README_CN.md">中文</a> · <a href="https://github.com/yblzhua/agent-reach#支持的平台">Platforms</a> · <a href="https://github.com/yblzhua/agent-reach#设计理念">Philosophy</a>
 </p>
 
 > **Project Source**: This project is based on [Agent Reach](https://github.com/Panniantong/agent-reach)

@@ -3,13 +3,13 @@
 > 让 Claude Code 拥有互联网访问能力的技能包
 
 <p align="center">
-  <a href="https://github.com/Panniantong/agent-reach/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-green.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"></a>
-  <a href="https://github.com/Panniantong/agent-reach/stargazers"><img src="https://img.shields.io/github/stars/Panniantong/agent-reach?style=for-the-badge" alt="GitHub Stars"></a>
+  <a href="https://github.com/yblzhua/agent-reach/stargazers"><img src="https://img.shields.io/badge/Original-Agent--Reach-blue.svg?style=for-the-badge" alt="GitHub Stars"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Panniantong/agent-reach">项目主页</a> · <a href="README.md">English</a> · <a href="https://github.com/Panniantong/agent-reach#支持的平台">支持平台</a> · <a href="https://github.com/Panniantong/agent-reach#设计理念">设计理念</a>
+  <a href="https://github.com/yblzhua/agent-reach">项目主页</a> · <a href="README.md">English</a> · <a href="#支持哪些平台">支持平台</a> · <a href="#致谢">致谢</a>
 </p>
 
 > **项目来源**：本项目基于 [Agent Reach](https://github.com/Panniantong/agent-reach) 开发
